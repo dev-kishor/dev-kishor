@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![MongoDB Badge](https://img.shields.io/badge/-mongo-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=e535ab)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=black&logo=docker&logoColor=blue)](#) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-teal?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=blue)](#) [![NextJS Badge](https://img.shields.io/badge/-Next.JS-lightyellow?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightblue)](#) 
+
+
 <!--
 **dev-kishor/dev-kishor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
